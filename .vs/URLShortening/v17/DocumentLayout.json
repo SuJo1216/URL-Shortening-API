@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\URLShortening\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\services\\urlshorteningservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\services\\urlshorteningservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\models\\shortenurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\models\\shortenurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\entites\\shortenurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\entites\\shortenurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|c:\\users\\hp\\source\\repos\\urlshortening\\urlshortening\\urlshortening.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8C0DA13-86E2-4C72-A246-2C4D1E4913EF}|URLShortening\\URLShortening.csproj|solutionrelative:urlshortening\\urlshortening.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\appsettings.json",
+              "RelativeDocumentMoniker": "URLShortening\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\appsettings.json",
+              "RelativeToolTip": "URLShortening\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T02:30:26.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "URLShorteningServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Services\\URLShorteningServices.cs",
+              "RelativeDocumentMoniker": "URLShortening\\Services\\URLShorteningServices.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Services\\URLShorteningServices.cs",
+              "RelativeToolTip": "URLShortening\\Services\\URLShorteningServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:59:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "URLShortening.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\URLShortening.csproj",
+              "RelativeDocumentMoniker": "URLShortening\\URLShortening.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\URLShortening.csproj",
+              "RelativeToolTip": "URLShortening\\URLShortening.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T04:58:38.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShortenURL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Entites\\ShortenURL.cs",
+              "RelativeDocumentMoniker": "URLShortening\\Entites\\ShortenURL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Entites\\ShortenURL.cs",
+              "RelativeToolTip": "URLShortening\\Entites\\ShortenURL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:53:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Program.cs",
+              "RelativeDocumentMoniker": "URLShortening\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Program.cs",
+              "RelativeToolTip": "URLShortening\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:42:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortenURLRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Models\\ShortenURLRequest.cs",
+              "RelativeDocumentMoniker": "URLShortening\\Models\\ShortenURLRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\Models\\ShortenURLRequest.cs",
+              "RelativeToolTip": "URLShortening\\Models\\ShortenURLRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:47:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "URLShortening\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\URLShortening\\URLShortening\\ApplicationDBContext.cs",
+              "RelativeToolTip": "URLShortening\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:23:46.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
